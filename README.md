@@ -1,4 +1,4 @@
-### Olá eu sou o Jonas C. Lima, sou um apaixonado por tecnologia😎
+### Olá eu sou o Jonas C. Lima😎
 
 ### Tecnologias que utilizo
 [![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
