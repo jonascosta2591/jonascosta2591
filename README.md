@@ -1,5 +1,3 @@
-### Olá eu sou o Jonas C. Lima😎
-
 ### Tecnologias que utilizo
 [![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
 [![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
