@@ -8,6 +8,7 @@
 
 ### Contato
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonas259234/)
+[![instagram](https://img.shields.io/badge/-Jonas%20Costa%20Lima-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-costa-lima-47b982208/)
 
 
 ### Sobre mim
