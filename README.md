@@ -7,7 +7,7 @@
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
 ### Contato
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonas259234/)
+[![instagram](https://img.shields.io/badge/-@jonas259234_-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jonas259234/)
 [![instagram](https://img.shields.io/badge/-Jonas%20Costa%20Lima-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-costa-lima-47b982208/)
 
 
