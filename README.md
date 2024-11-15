@@ -12,5 +12,5 @@
 
 
 ### Sobre mim
-Meu primeiro contato com código foi com 13 anos, utlizando python, na época eu queria criar um servidor de um jogo muito famoso chamado Transformice, tive sucesso e consegui mais de 200 players online todos os dias, o jogo era hospedado no meu computador pessoal.
+Meu primeiro contato com código foi com 13 anos, utlizando python, na época eu queria criar um servidor de um jogo muito famoso da epoca chamado Transformice, tive sucesso e consegui mais de 200 players online todos os dias, o jogo era hospedado no meu computador pessoal.
 Nesse tempo percebi que tecnologia era algo que eu gostava muito, então logo depois do fim do jogo comecei a estudar html, css e javascript com professor Gustavo Guanabara.
