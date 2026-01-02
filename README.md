@@ -13,4 +13,5 @@
 
 ### Sobre mim
 Meu primeiro contato com programação foi aos 13 anos, utilizando Python. Na época, criei um servidor privado de um jogo muito popular chamado Transformice, que chegou a ter mais de 200 jogadores online diariamente, hospedado no meu próprio computador.
+
 Essa experiência despertou meu interesse definitivo por tecnologia. Após o encerramento do projeto, iniciei meus estudos em HTML, CSS e JavaScript, aprendendo os fundamentos com o professor Gustavo Guanabara, o que consolidou minha base no desenvolvimento web.
